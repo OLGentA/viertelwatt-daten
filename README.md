@@ -40,4 +40,5 @@ Tests laufen mit Python 3.12 und 3.14.
 
 | Name | GitHub |
 |---|---|
-| | |
+|OLga | @OLGentA |
+
